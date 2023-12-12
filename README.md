@@ -19,8 +19,11 @@ The supported instructions follow a specific format. Each instruction is entered
 
 ## Example
 ![WhatsApp Image 2023-12-11 at 19 47 13_e3d2a6b2](https://github.com/Mickey-mouse23/ACA_Final_project/assets/70874185/4ba96175-fbd8-491e-b738-0b3b831f84b5)
+
 ![WhatsApp Image 2023-12-11 at 19 47 30_8100078d](https://github.com/Mickey-mouse23/ACA_Final_project/assets/70874185/0cbe349f-0ab1-4c76-8c5d-cee61d61b19d)
+
 ![WhatsApp Image 2023-12-11 at 19 47 51_1c779949](https://github.com/Mickey-mouse23/ACA_Final_project/assets/70874185/ebb1999d-1fbf-4e44-b676-02331d012951)
+
 ![WhatsApp Image 2023-12-11 at 19 48 04_6a1f4ed6](https://github.com/Mickey-mouse23/ACA_Final_project/assets/70874185/1f562ca0-5758-444a-93cc-046c9b9312ed)
 
 ## Notes
