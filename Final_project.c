@@ -13,7 +13,6 @@
 #include <string.h>
 #include <stdbool.h>
 #include <stdint.h>
-#include "alu.h"
 #define R 0
 #define W 1
 
