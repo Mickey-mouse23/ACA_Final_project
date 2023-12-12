@@ -30,6 +30,6 @@ The supported instructions follow a specific format. Each instruction is entered
 
 Feel free to explore and modify the code for different scenarios and instructions.
 
-##Contributors
+## Contributors
 - Leburu Aniketh Reddy
 - Aneesh Gurram
